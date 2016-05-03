@@ -63,3 +63,7 @@ docs/_build/
 target/
 *.pyt.xml
 *.pyc
+
+*.bak
+test/reference-case/Radiation2000-2009.csv
+*.spyderworkspace
